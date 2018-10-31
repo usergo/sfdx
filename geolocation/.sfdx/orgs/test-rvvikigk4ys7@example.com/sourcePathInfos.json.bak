@@ -1,8 +1,8 @@
 [
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1540644645993,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1540644645993,
@@ -30,12 +30,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540663271970,
+            "modifiedTime": 1540957167559,
             "changeTime": 1540663271970,
             "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
@@ -45,12 +45,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540665078283,
+            "modifiedTime": 1540957167355,
             "changeTime": 1540665078283,
             "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
             "isMetadataFile": false,
@@ -60,12 +60,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540657792082,
+            "modifiedTime": 1540957167275,
             "changeTime": 1540663233159,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
             "isMetadataFile": false,
@@ -75,57 +75,54 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1540657792081,
-            "changeTime": 1540663233158,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "size": 214,
+            "modifiedTime": 1540957167255,
+            "changeTime": 1540957167255,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 542,
-            "modifiedTime": 1540665742584,
-            "changeTime": 1540665742584,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
+            "size": 552,
+            "modifiedTime": 1540957167255,
+            "changeTime": 1540957167255,
+            "contentHash": "ae7e2993a765ea2671a595ef250378b3799318fc",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "size": 243,
-            "modifiedTime": 1540657792060,
-            "changeTime": 1540663233158,
-            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828",
+            "size": 248,
+            "modifiedTime": 1540957167259,
+            "changeTime": 1540957167259,
+            "contentHash": "4f9607d8a204d1feb084ce9ad491703d9261fee0",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
             "size": 117,
-            "modifiedTime": 1540664785472,
+            "modifiedTime": 1540957167259,
             "changeTime": 1540664785472,
             "contentHash": "85dde2885dc3136657a01a064788e1599d165ce5",
             "isMetadataFile": false,
@@ -135,87 +132,82 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
             "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1540657792083,
-            "changeTime": 1540663233158,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "size": 42,
+            "modifiedTime": 1540957167259,
+            "changeTime": 1540957167259,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
             "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1540657792079,
-            "changeTime": 1540663233158,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "size": 667,
+            "modifiedTime": 1540957167263,
+            "changeTime": 1540957167263,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 395,
-            "modifiedTime": 1540665755452,
-            "changeTime": 1540665755452,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "size": 406,
+            "modifiedTime": 1540957167267,
+            "changeTime": 1540957167267,
+            "contentHash": "3c00cbfaec8dced83cda74daf23e53204dbf0354",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1540657792074,
-            "changeTime": 1540663233159,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
             "isDirectory": false,
             "size": 50,
-            "modifiedTime": 1540657792078,
-            "changeTime": 1540663233159,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "modifiedTime": 1540957167267,
+            "changeTime": 1540957167267,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1540957167275,
+            "changeTime": 1540957167275,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540657690023,
+            "modifiedTime": 1540957167299,
             "changeTime": 1540663233162,
             "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
             "isMetadataFile": false,
@@ -225,57 +217,54 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1540657690023,
-            "changeTime": 1540663233162,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "size": 214,
+            "modifiedTime": 1540957167275,
+            "changeTime": 1540957167275,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
-            "size": 120,
-            "modifiedTime": 1540664740408,
-            "changeTime": 1540664740408,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "size": 123,
+            "modifiedTime": 1540957167279,
+            "changeTime": 1540957167279,
+            "contentHash": "e2e23c40695b076c7bbbfe695717fb74e38593b0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "size": 247,
-            "modifiedTime": 1540657690004,
-            "changeTime": 1540663233162,
-            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db",
+            "size": 252,
+            "modifiedTime": 1540957167283,
+            "changeTime": 1540957167283,
+            "contentHash": "e57e9e9ddc3e799e2a495e35976025deaa001b73",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
             "isDirectory": false,
             "size": 178,
-            "modifiedTime": 1540664752523,
+            "modifiedTime": 1540957167291,
             "changeTime": 1540664752523,
             "contentHash": "0a91b7c1bd37605f99c1e24618c24b2b0e22caa2",
             "isMetadataFile": false,
@@ -285,87 +274,82 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
             "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1540657690024,
-            "changeTime": 1540663233162,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "size": 42,
+            "modifiedTime": 1540957167291,
+            "changeTime": 1540957167291,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
             "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1540657690019,
-            "changeTime": 1540663233162,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "size": 667,
+            "modifiedTime": 1540957167291,
+            "changeTime": 1540957167291,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1540657690009,
-            "changeTime": 1540663233162,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 70,
+            "modifiedTime": 1540957167295,
+            "changeTime": 1540957167295,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1540657690010,
-            "changeTime": 1540663233162,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
             "isDirectory": false,
             "size": 50,
-            "modifiedTime": 1540657690016,
-            "changeTime": 1540663233162,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "modifiedTime": 1540957167299,
+            "changeTime": 1540957167299,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1540957167299,
+            "changeTime": 1540957167299,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540663294609,
+            "modifiedTime": 1540957167319,
             "changeTime": 1540663294609,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
@@ -375,57 +359,54 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1540657927231,
-            "changeTime": 1540663294563,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "size": 214,
+            "modifiedTime": 1540957167299,
+            "changeTime": 1540957167299,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 201,
-            "modifiedTime": 1540664944086,
-            "changeTime": 1540664944086,
-            "contentHash": "b653a651d8e3ffd78bebd800ab00f8e46a0b360f",
+            "size": 210,
+            "modifiedTime": 1540957167303,
+            "changeTime": 1540957167303,
+            "contentHash": "7cfb388317220ad0f1117caf947050799c089bbd",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1540657927211,
-            "changeTime": 1540663294580,
-            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "size": 251,
+            "modifiedTime": 1540957167311,
+            "changeTime": 1540957167311,
+            "contentHash": "90975e8496babcfd008943ebc701b757ab06aef5",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
             "size": 121,
-            "modifiedTime": 1540664717914,
+            "modifiedTime": 1540957167315,
             "changeTime": 1540664717914,
             "contentHash": "a63dc02d2f9680f8d83fde4e3be5379b9eeffc1f",
             "isMetadataFile": false,
@@ -435,87 +416,82 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
             "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1540657927233,
-            "changeTime": 1540663294592,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "size": 42,
+            "modifiedTime": 1540957167315,
+            "changeTime": 1540957167315,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
             "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1540657927230,
-            "changeTime": 1540663294598,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "size": 667,
+            "modifiedTime": 1540957167315,
+            "changeTime": 1540957167315,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1540657927212,
-            "changeTime": 1540666113605,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 70,
+            "modifiedTime": 1540957167319,
+            "changeTime": 1540957167319,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1540657927224,
-            "changeTime": 1540663294606,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
             "isDirectory": false,
             "size": 50,
-            "modifiedTime": 1540657927228,
-            "changeTime": 1540663294610,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "modifiedTime": 1540957167319,
+            "changeTime": 1540957167319,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1540957167319,
+            "changeTime": 1540957167319,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540659075590,
+            "modifiedTime": 1540957167355,
             "changeTime": 1540662641527,
             "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
             "isMetadataFile": false,
@@ -525,57 +501,54 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
             "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1540662541601,
-            "changeTime": 1540662541601,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "size": 214,
+            "modifiedTime": 1540957167319,
+            "changeTime": 1540957167319,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
-            "size": 331,
-            "modifiedTime": 1540665790802,
-            "changeTime": 1540665790802,
-            "contentHash": "86f6b6ec39a1ee57f95a96374bbace895583c7db",
+            "size": 338,
+            "modifiedTime": 1540957167327,
+            "changeTime": 1540957167327,
+            "contentHash": "d1c1d924197bbbe0f1c6c70645c86c526d41c293",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "size": 242,
-            "modifiedTime": 1540662541595,
-            "changeTime": 1540662541595,
-            "contentHash": "c36ecc6bbe85bd9081a8c38d8427f7e8bbabeec9",
+            "size": 247,
+            "modifiedTime": 1540957167335,
+            "changeTime": 1540957167335,
+            "contentHash": "b133bb650a82ce8e89418d4f782effa051f3ea99",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
             "size": 45,
-            "modifiedTime": 1540664927231,
+            "modifiedTime": 1540957167339,
             "changeTime": 1540664927231,
             "contentHash": "3fa5ccd072fda1594bbabd0012c53a119d594ed0",
             "isMetadataFile": false,
@@ -585,131 +558,124 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
             "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1540662541602,
-            "changeTime": 1540662541602,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1540662541600,
-            "changeTime": 1540662541600,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
-            "isDirectory": false,
-            "size": 830,
-            "modifiedTime": 1540666421357,
-            "changeTime": 1540666421357,
-            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
-            "isDirectory": false,
-            "size": 378,
-            "modifiedTime": 1540662656034,
-            "changeTime": 1540662656034,
-            "contentHash": "195c0a2d32ab26c8b56292e40da9c92711dc3fab",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1540662541599,
-            "changeTime": 1540662541599,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1540955546213,
-            "changeTime": 1540955546213,
-            "contentHash": "1274d32ae6919d498e122f721a42a6261fcb6bd7",
+            "size": 42,
+            "modifiedTime": 1540957167343,
+            "changeTime": 1540957167343,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
             "isDirectory": false,
-            "size": 292,
-            "modifiedTime": 1540664676146,
-            "changeTime": 1540664676146,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "size": 667,
+            "modifiedTime": 1540957167343,
+            "changeTime": 1540957167343,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1540656850900,
-            "changeTime": 1540656850900,
-            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
-            "isMetadataFile": true,
+            "size": 849,
+            "modifiedTime": 1540957167347,
+            "changeTime": 1540957167347,
+            "contentHash": "bb00d313587fd84e4a1b0b748c0a3419deec5081",
+            "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1540957167355,
+            "changeTime": 1540957167355,
+            "contentHash": "71d1f003610e53fbf497ab856e020cc718c388b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1540957167355,
+            "changeTime": 1540957167355,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540652228278,
+            "modifiedTime": 1540958106890,
+            "changeTime": 1540958106890,
+            "contentHash": "77e903bd3f97586cbab6c38370a651ea6c3d9f77",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1540957167371,
+            "changeTime": 1540957167371,
+            "contentHash": "69e2901760ff821d0bf0203d9d16847186655b22",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1540957167379,
+            "changeTime": 1540957167379,
+            "contentHash": "d3528b5f9855b7bee2086bb43bd2c2c05955332c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1540957167419,
             "changeTime": 1540652228278,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
             "isMetadataFile": false,
@@ -719,72 +685,68 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9630,
-            "modifiedTime": 1540652228290,
-            "changeTime": 1540652228290,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "size": 9898,
+            "modifiedTime": 1540957167395,
+            "changeTime": 1540957167395,
+            "contentHash": "a5668b98af4d945295056a1d623f54409c6fd097",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1540652228264,
-            "changeTime": 1540652228264,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "size": 9848,
+            "modifiedTime": 1540957167407,
+            "changeTime": 1540957167407,
+            "contentHash": "abd94aceef765cd770071b4f7929b9a3ffeec423",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9630,
-            "modifiedTime": 1540652228248,
-            "changeTime": 1540652228248,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "size": 9898,
+            "modifiedTime": 1540957167411,
+            "changeTime": 1540957167411,
+            "contentHash": "16ca7b29b1391ddd32731eff4af37305c7449051",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9582,
-            "modifiedTime": 1540652228222,
-            "changeTime": 1540652228222,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "size": 9848,
+            "modifiedTime": 1540957167419,
+            "changeTime": 1540957167419,
+            "contentHash": "5fe8795a4af966c12747feb27f6e062e4c45eac4",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540652228192,
+            "modifiedTime": 1540957167419,
             "changeTime": 1540652228192,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
             "isMetadataFile": false,
@@ -794,12 +756,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540954889460,
+            "modifiedTime": 1540957167427,
             "changeTime": 1540954889460,
             "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
             "isMetadataFile": false,
@@ -807,12 +769,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540652228194,
+            "modifiedTime": 1540957167427,
             "changeTime": 1540652228194,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
             "isMetadataFile": false,
@@ -822,27 +784,26 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "size": 404,
-            "modifiedTime": 1540652228202,
-            "changeTime": 1540652228202,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "size": 415,
+            "modifiedTime": 1540957167427,
+            "changeTime": 1540957167427,
+            "contentHash": "40248cf1800e8b3317f9ecee6caafe416ac0c376",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540652228298,
+            "modifiedTime": 1540957167435,
             "changeTime": 1540652228298,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
@@ -852,27 +813,26 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 366,
-            "modifiedTime": 1540652228300,
-            "changeTime": 1540652228300,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "size": 376,
+            "modifiedTime": 1540957167435,
+            "changeTime": 1540957167435,
+            "contentHash": "3da1fd99eeb4770128fefbd9463a3d6fa7647f19",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540657424112,
+            "modifiedTime": 1540957167439,
             "changeTime": 1540657424112,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
@@ -882,64 +842,64 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 18524,
-            "modifiedTime": 1540954889496,
-            "changeTime": 1540954889496,
-            "contentHash": "741ee81adc2835c242ce7db640841ebf4957b33c",
+            "size": 19153,
+            "modifiedTime": 1540957167435,
+            "changeTime": 1540957167435,
+            "contentHash": "1cb34e533fbf9ce0a951739830120f55ac73a730",
             "isMetadataFile": true,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5009,
-            "modifiedTime": 1540954889508,
-            "changeTime": 1540954889508,
-            "contentHash": "675024807b09e8b69a08fb68c041a4be49a551ed",
+            "size": 5178,
+            "modifiedTime": 1540957167435,
+            "changeTime": 1540957167435,
+            "contentHash": "e76e4ece2a6bd57f5d79f84a6c68f451974a45c6",
             "isMetadataFile": true,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5005,
-            "modifiedTime": 1540954889524,
-            "changeTime": 1540954889524,
-            "contentHash": "077930c2fee1ac1d94af6ce368bd66a35c97c485",
+            "size": 5174,
+            "modifiedTime": 1540957167435,
+            "changeTime": 1540957167435,
+            "contentHash": "9ac36a6dc965a2ef5fd96e5059564207cf1a1f17",
             "isMetadataFile": true,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5345,
-            "modifiedTime": 1540954889504,
-            "changeTime": 1540954889504,
-            "contentHash": "65276eb2ebc8e3c2ed920dcc3d2d161e59e29a91",
+            "size": 5526,
+            "modifiedTime": 1540957167439,
+            "changeTime": 1540957167439,
+            "contentHash": "eac139dd22e8484b0e89a52c31b6d48e75043418",
             "isMetadataFile": true,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540659054349,
+            "modifiedTime": 1540957167443,
             "changeTime": 1540659054349,
             "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
             "isMetadataFile": false,
@@ -949,12 +909,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540659054423,
+            "modifiedTime": 1540957167559,
             "changeTime": 1540659054423,
             "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
             "isMetadataFile": false,
@@ -964,12 +924,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540659054355,
+            "modifiedTime": 1540957167479,
             "changeTime": 1540659054355,
             "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
             "isMetadataFile": false,
@@ -979,12 +939,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
             "size": 1259,
-            "modifiedTime": 1540659054351,
+            "modifiedTime": 1540957167455,
             "changeTime": 1540659054351,
             "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
             "isMetadataFile": false,
@@ -994,12 +954,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
             "size": 696,
-            "modifiedTime": 1540659054352,
+            "modifiedTime": 1540957167463,
             "changeTime": 1540659054352,
             "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
             "isMetadataFile": false,
@@ -1009,12 +969,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
             "size": 2464,
-            "modifiedTime": 1540659054354,
+            "modifiedTime": 1540957167467,
             "changeTime": 1540659054354,
             "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
             "isMetadataFile": false,
@@ -1024,12 +984,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
             "size": 1466,
-            "modifiedTime": 1540659054355,
+            "modifiedTime": 1540957167475,
             "changeTime": 1540659054355,
             "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
             "isMetadataFile": false,
@@ -1039,12 +999,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
             "size": 618,
-            "modifiedTime": 1540659054356,
+            "modifiedTime": 1540957167479,
             "changeTime": 1540659054356,
             "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
             "isMetadataFile": false,
@@ -1054,27 +1014,26 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
             "isDirectory": false,
-            "size": 398589,
-            "modifiedTime": 1540659054358,
-            "changeTime": 1540659054358,
-            "contentHash": "ca67d5d8c1790d2dfb84a2dca04a8e07a1f7a256",
+            "size": 404086,
+            "modifiedTime": 1540957167491,
+            "changeTime": 1540957167491,
+            "contentHash": "090300332c349d77e8e644dcd739b58ade967508",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
             "isDirectory": false,
             "size": 759894,
-            "modifiedTime": 1540659054363,
+            "modifiedTime": 1540957167503,
             "changeTime": 1540659054363,
             "contentHash": "3f658c11a3777fec7d47791891cef7c658c9de5b",
             "isMetadataFile": false,
@@ -1084,27 +1043,26 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
-            "size": 400314,
-            "modifiedTime": 1540659054388,
-            "changeTime": 1540659054388,
-            "contentHash": "6dc6a7d35f9833647c5b4978331ab6421b38f47f",
+            "size": 405903,
+            "modifiedTime": 1540957167519,
+            "changeTime": 1540957167519,
+            "contentHash": "680e5a37bd044bb58b780ba1a6881c526a6766c2",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
             "size": 759986,
-            "modifiedTime": 1540659054392,
+            "modifiedTime": 1540957167535,
             "changeTime": 1540659054392,
             "contentHash": "6fc0eb51f39c20d20284c1ee42e5a3b0ec516380",
             "isMetadataFile": false,
@@ -1114,12 +1072,12 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
             "size": 14106,
-            "modifiedTime": 1540659054396,
+            "modifiedTime": 1540957167543,
             "changeTime": 1540659054396,
             "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
             "isMetadataFile": false,
@@ -1129,27 +1087,26 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
-            "size": 140540,
-            "modifiedTime": 1540659054422,
-            "changeTime": 1540659054422,
-            "contentHash": "869977e7c60b77f9cce8a4d75530a992429d6864",
+            "size": 140544,
+            "modifiedTime": 1540957167547,
+            "changeTime": 1540957167547,
+            "contentHash": "6b934eb5e98fd093de66a69fe74e67473e86e43a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
             "size": 191113,
-            "modifiedTime": 1540659054426,
+            "modifiedTime": 1540957167559,
             "changeTime": 1540659054426,
             "contentHash": "07d76b212e8e2a85af20ad9120bd45c7c1913c17",
             "isMetadataFile": false,
@@ -1159,27 +1116,26 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "size": 222,
-            "modifiedTime": 1540659054211,
-            "changeTime": 1540659054211,
-            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "size": 227,
+            "modifiedTime": 1540957167443,
+            "changeTime": 1540957167443,
+            "contentHash": "87828c0daf9496e68146dc4966620ccf499dfafa",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540657424084,
+            "modifiedTime": 1540957167563,
             "changeTime": 1540657424084,
             "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
             "isMetadataFile": false,
@@ -1189,41 +1145,40 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "size": 274,
-            "modifiedTime": 1540657424085,
-            "changeTime": 1540657424085,
-            "contentHash": "73ffee1f5bffd11323fdfcb05432e49fdbed401d",
+            "size": 281,
+            "modifiedTime": 1540957167563,
+            "changeTime": 1540957167563,
+            "contentHash": "4d8add932888ae414f76d4718c50ccefd812f817",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540952923168,
-            "changeTime": 1540952923168,
-            "contentHash": "4013ab2933e6691bd43ee6610a311f52c4376dfc",
+            "modifiedTime": 1540957184919,
+            "changeTime": 1540957184919,
+            "contentHash": "eac1ce6400838a52707defa3430769fcca9d8569",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540665078285,
+            "modifiedTime": 1540957167367,
             "changeTime": 1540665097412,
             "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
             "isMetadataFile": false,
@@ -1233,137 +1188,133 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
             "isDirectory": false,
-            "size": 100,
-            "modifiedTime": 1540665687385,
-            "changeTime": 1540665687385,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "size": 102,
+            "modifiedTime": 1540957167363,
+            "changeTime": 1540957167363,
+            "contentHash": "e38d5240066962d02879f016f7dee09b1b6aa1d2",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
-            "size": 242,
-            "modifiedTime": 1540665078287,
-            "changeTime": 1540665078287,
-            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50",
+            "size": 247,
+            "modifiedTime": 1540957167367,
+            "changeTime": 1540957167367,
+            "contentHash": "3c3c69d13adf3b057dffdab7df0bab207ab99973",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls",
             "isDirectory": false,
-            "size": 78,
-            "modifiedTime": 1540953394871,
-            "changeTime": 1540953394871,
-            "contentHash": "f23b121e7e33c6e0a8dd0a4cdf08250ce082c54d",
+            "size": 83,
+            "modifiedTime": 1540957167387,
+            "changeTime": 1540957167387,
+            "contentHash": "b97daf0134e27637ba9827e1ee5e5ededd158d61",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls-meta.xml",
-            "isDirectory": false,
-            "size": 190,
-            "modifiedTime": 1540953381935,
-            "changeTime": 1540953381935,
-            "contentHash": "e692440cbecf28612f9332506b7a6b7c2bce4e00",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger",
-            "isDirectory": false,
-            "size": 189,
-            "modifiedTime": 1540955467819,
-            "changeTime": 1540955467819,
-            "contentHash": "8add1a47298c6f356ffc8eec533416b6eb923cff",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger-meta.xml",
-            "isDirectory": false,
-            "size": 196,
-            "modifiedTime": 1540953903022,
-            "changeTime": 1540953903022,
-            "contentHash": "ae3d81184da95d5d134b9a8b6420df74150cec28",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls",
-            "isDirectory": false,
-            "size": 448,
-            "modifiedTime": 1540955012162,
-            "changeTime": 1540955012162,
-            "contentHash": "f998a48559d67ca4dee174c28dd0591207ca90c9",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls-meta.xml",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\FactoryClass.cls-meta.xml",
             "isDirectory": false,
             "size": 195,
-            "modifiedTime": 1540954486907,
-            "changeTime": 1540954486907,
-            "contentHash": "f41a9006003ff473555f86dadfa003941b91fd09",
+            "modifiedTime": 1540957167387,
+            "changeTime": 1540957167387,
+            "contentHash": "c14518a01932d6b9ba2c675063eb73402ce70be7",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes\\East.recordType-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes\\East.recordType-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger",
             "isDirectory": false,
-            "size": 6596,
-            "modifiedTime": 1540954889464,
-            "changeTime": 1540954889464,
-            "contentHash": "d0f99255158ef9ec4c062d889fddbfbe04edf11c",
+            "size": 195,
+            "modifiedTime": 1540957167379,
+            "changeTime": 1540957167379,
+            "contentHash": "e45d30ecaba26ee2dee2253880e20d4f1d9d6ce7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDX.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1540957167383,
+            "changeTime": 1540957167383,
+            "contentHash": "6d26d52c6fdea8a0315466fdcc149cf524c1307a",
             "isMetadataFile": true,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1540957167379,
+            "changeTime": 1540957167379,
+            "contentHash": "9f7c75226249d64fa70483838803b4fd80f13333",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountRecordType.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1540957167379,
+            "changeTime": 1540957167379,
+            "contentHash": "e9250101c8715c2fd83b3846e63f40f624f05b51",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes\\East.recordType-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes\\East.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 6822,
+            "modifiedTime": 1540957167427,
+            "changeTime": 1540957167427,
+            "contentHash": "00634993f034b42043aaea1aad0960ecd4134253",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\objects\\Account\\recordTypes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540954889460,
+            "modifiedTime": 1540957167427,
             "changeTime": 1540954889460,
             "contentHash": "f11c50dd583265639b0295e50664705a3c5649d2",
             "isMetadataFile": false,
@@ -1371,81 +1322,159 @@
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls",
             "isDirectory": false,
-            "size": 320,
-            "modifiedTime": 1540956225780,
-            "changeTime": 1540956225780,
-            "contentHash": "cb34fdb9504f076c64409a06853f8156d5fa4d4d",
+            "size": 334,
+            "modifiedTime": 1540957167383,
+            "changeTime": 1540957167383,
+            "contentHash": "811aef34079af3f38d8989587196516f0b499735",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\AccountTriggerDXTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1540957167383,
+            "changeTime": 1540957167383,
+            "contentHash": "3c9d2b5f0e39113aaf2047b288ffff84d78a0a68",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls",
+            "isDirectory": false,
+            "size": 57,
+            "modifiedTime": 1540957167383,
+            "changeTime": 1540957167383,
+            "contentHash": "54d2a048ca5287bb91eada125828ddd47aac5953",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1540957167383,
+            "changeTime": 1540957167383,
+            "contentHash": "c9570f358bb426ad1a35413d5810cfba1d673a4a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls",
+            "isDirectory": false,
+            "size": 1161,
+            "modifiedTime": 1540957980583,
+            "changeTime": 1540957980583,
+            "contentHash": "0219111813056ee736a8d0a446f981f25fd9b15c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1540957167391,
+            "changeTime": 1540957167391,
+            "contentHash": "f0c9627cd0220709bf02236237476639a24192df",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GeocodeService.cls",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GeocodeService.cls",
+            "isDirectory": false,
+            "size": 83,
+            "modifiedTime": 1540958018519,
+            "changeTime": 1540958018519,
+            "contentHash": "953963d40890cb2b1046eda95bdf799ab95403d8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GeocodeService.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GeocodeService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1540957797367,
+            "changeTime": 1540957797367,
+            "contentHash": "03d883d2665ca92ebe2296bbd1e13deb5e18fb5d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GoogleMapsImpl.cls",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GoogleMapsImpl.cls",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1540958084767,
+            "changeTime": 1540958084767,
+            "contentHash": "d28e7f717357b2bbd8393b084427e40f46d5f13b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GoogleMapsImpl.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\GoogleMapsImpl.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1540958031787,
+            "changeTime": 1540958031787,
+            "contentHash": "c393bfbf0e01dfea1c2cb7b6e24a6be399feb5d1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\MapQuestImpl.cls",
+        {
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\MapQuestImpl.cls",
             "isDirectory": false,
             "size": 198,
-            "modifiedTime": 1540955054731,
-            "changeTime": 1540955054731,
-            "contentHash": "3c9cd06e3806416d7a90eb6a2dbf3de4413ee15e",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls",
-            "isDirectory": false,
-            "size": 54,
-            "modifiedTime": 1540955566377,
-            "changeTime": 1540955566377,
-            "contentHash": "1770e5c075680a2555a4a5abfafe3c1b05ed5380",
+            "modifiedTime": 1540958157223,
+            "changeTime": 1540958157223,
+            "contentHash": "171fa8227fc4a4988b301c5f5995cc54ea015661",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls-meta.xml",
+        "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\MapQuestImpl.cls-meta.xml",
         {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\ApexDataFactoryDX.cls-meta.xml",
+            "sourcePath": "C:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\MapQuestImpl.cls-meta.xml",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1540955165732,
-            "changeTime": 1540955165732,
-            "contentHash": "b79906422e1bbcda94ab2abd357b86076f17f1aa",
+            "size": 190,
+            "modifiedTime": 1540958106894,
+            "changeTime": 1540958106894,
+            "contentHash": "a9856d60bf050b19bdd744272576ebd0a4199fda",
             "isMetadataFile": true,
             "state": "u"
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls",
-        {
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls",
-            "isDirectory": false,
-            "size": 1044,
-            "modifiedTime": 1540955990175,
-            "changeTime": 1540955990175,
-            "contentHash": "f2b69fddc90d4482076920e3b55dba82d41d92a0",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 174,
-            "modifiedTime": 1540956370161,
-            "changeTime": 1540956370161,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
         }
     ]
 ]
