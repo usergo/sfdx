@@ -1425,27 +1425,27 @@
     [
         "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls",
             "isDirectory": false,
+            "size": 1044,
+            "modifiedTime": 1540955990175,
+            "changeTime": 1540955990175,
+            "contentHash": "f2b69fddc90d4482076920e3b55dba82d41d92a0",
             "isMetadataFile": false,
-            "size": 1132,
-            "modifiedTime": 1540956488577,
-            "changeTime": 1540956488577,
-            "contentHash": "c74aea2ca66a5cbefe75492bdc24953793f2e7e9"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\nonce0\\Google Drive (willulmer@gmail.com)\\Dev\\sfdxremote\\sfdx\\geolocation\\force-app\\main\\default\\classes\\TestDataFactoryDX.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1540956370161,
             "changeTime": 1540956370161,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
         }
     ]
 ]
